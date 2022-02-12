@@ -24,6 +24,7 @@ main {
 }
 .heads {
     display: flex;
+    gap: 1em;
 }
 
 h1 {
@@ -51,6 +52,6 @@ ul {
 }
 
 img {
-    height: 1em;
+    height: 10em;
     width: 10em;
 }
