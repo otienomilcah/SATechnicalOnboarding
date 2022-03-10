@@ -29,7 +29,7 @@ It also contains my hobbies</p>
 ## Technology Used
 * HTML - this was used to build the structure of the pages.
 
-* CSS - this was used to style the pages.
+* CSS - this was used to style the website.
 
 
 
